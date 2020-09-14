@@ -18,7 +18,5 @@ public class TestArithmetic {
 		assertEquals(10, arth.sum(4,6));
 	}
 	
-	
-	
 
 }
