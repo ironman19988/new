@@ -1,8 +1,6 @@
 package com.lti.test;
 
 import static org.junit.Assert.assertEquals;
-import com.lti.code.Arithmetic;
-
 import org.junit.Before;
 import org.junit.Test;
 
